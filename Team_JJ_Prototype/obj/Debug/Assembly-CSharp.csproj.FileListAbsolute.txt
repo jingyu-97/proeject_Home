@@ -293,3 +293,7 @@ D:\Unity\Prototype\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.csproj.CopyComple
 D:\Unity\Prototype\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.dll
 D:\Unity\Prototype\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.pdb
 D:\Unity\Prototype\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\Unity\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.dll
+D:\Unity\Team_JJ_Prototype\obj\Debug\Assembly-CSharp.pdb
